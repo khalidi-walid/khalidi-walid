@@ -4,7 +4,7 @@
 <h3 align="center">A master's degree student and junior web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidi-walid&label=Profile%20views&color=0e75b6&style=flat" alt="khalidi-walid" /> </p>
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
