@@ -79,12 +79,12 @@
   </a>
 </p>
 
-<h3 align="left">Testing:</h3>
+<!--<h3 align="left">Testing:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest&theme=light" />
   </a>
-</p>
+</p> -->
 
 <h3 align="left">Software:</h3>
 <p align="left">
