@@ -89,21 +89,21 @@
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ps,postman,vscode,visualstudio,eclipse,idea,unity&perline=10&theme=light" />
   </a>
 </p>
 
-<h3 align="left">Static Site Generators:</h3>
+<!--<h3 align="left">Static Site Generators:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,gatsby&perline=10&theme=light" />
   </a>
-</p>
+</p> -->
 
 <h3 align="left">Other:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,git,windows&perline=10&theme=light" />
   </a>
 </p>
 
