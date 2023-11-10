@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm khalidi walid</h1>
 <h3 align="center">A master's degree student and junior web developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4784kej08q9ong5eg846qnx0ur47kcilu89f47hemc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left">  </p>
 
