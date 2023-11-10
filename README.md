@@ -1,26 +1,24 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/soulaimanedahi/)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/walid-khalidi-b114a0264)
 
 <h1 align="center">Hi 👋, I'm khalidi walid</h1>
 <h3 align="center">A master's degree student and junior web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimanedahi&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimanedahi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidi-walid&label=Profile%20views&color=0e75b6&style=flat" alt="khalidi-walid" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
-<a href="https://twitter.com/iamsoulaimane" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
-<a href="https://dev.to/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
+<a href="www.linkedin.com/in/walid-khalidi-b114a0264" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="khalidiwalid" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **lavocat** 
 
-- 🌱 I’m currently learning **Spring Boot and Angular**
+- 🌱 I’m currently learning **Django and Nextjs**
 
-- 📫 How to reach me **slimane.dahi@gmail.com**
+- 📫 How to reach me **khladiwalid72@gmail.com**
 
-- 📄 Know about my experiences <a href="https://cvdesignr.com/p/6535839415f02" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
+- 📄 Know about my experiences <a href="https://cvdesignr.com/p/652a7ecc03edc" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
 
 - ⚡ Fun fact **I think I am funny**
 
