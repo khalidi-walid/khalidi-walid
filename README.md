@@ -20,7 +20,8 @@
 
 - 📄 Know about my experiences <a href="https://cvdesignr.com/p/652a7ecc03edc" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Passionate coder by day, **⚡aspiring ninja by night ⚡**
+-
 
 
 <h3 align="left">Programming Languages:</h3>
