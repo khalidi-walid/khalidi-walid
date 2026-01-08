@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **khladiwalid72@gmail.com**
 
-- 📄 Know about my experiences <a href="https://cvdesignr.com/p/652a7ecc03edc" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
+- 📄 Know about my experiences <a href="https://cvdesignr.com/fr/cv-editor/cv_2WJD0xl5w1DL6E" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
 
 - ⚡ Passionate coder by day, **⚡aspiring ninja by night ⚡**
 -
