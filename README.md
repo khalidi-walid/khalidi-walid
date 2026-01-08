@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/walid-khalidi-b114a0264" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="khalidiwalid" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalidiwalid/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="khalidiwalid" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on **Portfolio** 
